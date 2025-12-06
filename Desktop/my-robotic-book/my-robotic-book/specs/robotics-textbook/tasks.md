@@ -13,8 +13,7 @@ This document lists the specific tasks required to implement the textbook struct
 - [ ] Task 2.2: Add "Part 1: The Foundations of Physical AI" category.
 - [ ] Task 2.3: Add "Part 2: The Robotic Nervous System" category.
 - [ ] Task 2.4: Add "Part 3: Digital Twins & Simulation" category.
-- [ ] Task 2.5: Add "Part 4: The Embodied Brain" category.
-- [ ] Task 2.6: Add "Assessments & Appendices" category.
+- [ ] Task 2.5: Add "Assessments & Appendices" category.
 
 ## File & Directory Structure (`docs/`)
 - [ ] Task 3.1: Create main `docs/index.md` landing page.
@@ -37,12 +36,3 @@ This document lists the specific tasks required to implement the textbook struct
 - [ ] Task 3.12: Create `docs/part3-simulation/chapter7-gazebo.md`.
 - [ ] Task 3.13: Create `docs/part3-simulation/chapter8-isaac-sim.md`.
 - [ ] Task 3.14: Create `docs/part3-simulation/chapter9-perception.md`.
-- [ ] Task 3.15: Create `docs/part3-simulation/chapter10-sim-to-real.md`.
-
-### Part 4 Files
-- [ ] Task 3.16: Create directory `docs/part4-brain`.
-- [ ] Task 3.17: Create `docs/part4-brain/chapter11-kinematics.md`.
-- [ ] Task 3.18: Create `docs/part4-brain/chapter12-navigation.md`.
-- [ ] Task 3.19: Create `docs/part4-brain/chapter13-voice-to-action.md`.
-- [ ] Task 3.20: Create `docs/part4-brain/chapter14-planning.md`.
-- [ ] Task 3.21: Create `docs/part4-brain/chapter15-capstone.md`.

@@ -29,18 +29,6 @@ const sidebars: SidebarsConfig = {
         'part3-simulation/chapter7-gazebo',
         'part3-simulation/chapter8-isaac-sim',
         'part3-simulation/chapter9-perception',
-        'part3-simulation/chapter10-sim-to-real',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Part 4: The Embodied Brain',
-      items: [
-        'part4-brain/chapter11-kinematics',
-        'part4-brain/chapter12-navigation',
-        'part4-brain/chapter13-voice-to-action',
-        'part4-brain/chapter14-planning',
-        'part4-brain/chapter15-capstone',
       ],
     },
     {
