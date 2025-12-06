@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_robotic_book=globalThis.webpackChunkmy_robotic_book||[]).push([[3016],{1316:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/my-robotic-book-project/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
