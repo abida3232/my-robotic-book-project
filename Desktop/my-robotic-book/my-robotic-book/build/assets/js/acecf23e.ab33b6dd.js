@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkmy_robotic_book=globalThis.webpackChunkmy_robotic_book||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/my-robotic-book-project/blog","blogTitle":"Blog","authorsListPath":"/my-robotic-book-project/blog/authors"}')}}]);
