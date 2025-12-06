@@ -1,0 +1,17 @@
+**GitHub Pages URL:**
+Your project, once successfully deployed to GitHub Pages, will be accessible at:
+https://abida3232.github.io/my-robotic-book-project/
+
+**How to check it:**
+1.  Go to your GitHub repository: https://github.com/abida3232/my-robotic-book-project
+2.  Navigate to "Settings" -> "Pages".
+3.  Ensure that the "Source" is set to the `gh-pages` branch and the `/ (root)` folder.
+4.  The URL where your site is published will be displayed on this page. It usually takes a few minutes for the deployment to become active after you run the `npm run deploy` command and configure the GitHub Pages settings.
+
+**Vercel URL:**
+After you follow the instructions to deploy your project to Vercel (connecting your GitHub repository and initiating the deployment), Vercel will automatically provide you with a unique URL for your project. You can find this URL in your Vercel project dashboard.
+
+**How to check it:**
+1.  Go to your Vercel Dashboard (vercel.com).
+2.  Navigate to your deployed project.
+3.  The project's live URL(s) will be listed there.

@@ -1,0 +1,39 @@
+You can check the content of your book in two main ways: locally (during development) and online (after deployment).
+
+### 1. Locally (Development Server)
+
+To view the book locally on your machine, you need to start the Docusaurus development server.
+
+**Steps:**
+1.  **Open your terminal** and navigate to the `my-robotic-book` directory.
+2.  **Run the start command:**
+    ```bash
+    npm start --prefix my-robotic-book
+    ```
+    (Alternatively, if `docusaurus` command is in your PATH, you can use `docusaurus start`)
+3.  Docusaurus will build your site and usually open it automatically in your web browser. If not, it will provide a URL (typically `http://localhost:3000`).
+4.  You can then browse the book content in your web browser. Any changes you make to the Markdown files (`.md`, `.mdx`) will automatically refresh in your browser.
+
+### 2. Online (After Deployment)
+
+#### a) GitHub Pages
+
+If you have successfully deployed your project to GitHub Pages by following the instructions I provided earlier, your book will be accessible at:
+
+**URL:** `https://abida3232.github.io/my-robotic-book-project/`
+
+**How to verify deployment:**
+*   Ensure you have run `npm run deploy --prefix my-robotic-book` (after setting `GIT_USER`).
+*   Go to your GitHub repository: `https://github.com/abida3232/my-robotic-book-project`
+*   Navigate to "Settings" -> "Pages".
+*   Confirm that the "Source" is set to the `gh-pages` branch and the `/ (root)` folder. The URL should be displayed there.
+
+#### b) Vercel
+
+If you deploy your project to Vercel, you will get a unique URL from Vercel for your project.
+
+**How to verify deployment:**
+*   Once you have completed the manual deployment steps on Vercel (connecting your GitHub repository and initiating the deployment), check your Vercel project dashboard.
+*   The live URL(s) for your project will be listed there.
+
+I recommend starting with the **Local Viewing** method to quickly review your content and ensure everything looks as expected before relying on the online deployments.

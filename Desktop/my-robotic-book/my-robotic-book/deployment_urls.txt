@@ -1,0 +1,3 @@
+**GitHub Repository URL:** https://github.com/abida3232/my-robotic-book-project
+
+**Vercel Deployment URL:** You will get this URL after you successfully deploy your project to Vercel by following the manual instructions I provided in the previous turn. Once deployed, Vercel automatically assigns a URL to your project.
