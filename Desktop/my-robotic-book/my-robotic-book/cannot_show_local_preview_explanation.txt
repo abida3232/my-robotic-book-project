@@ -1,0 +1,12 @@
+As a text-based CLI agent, I am unable to directly "show" you a graphical preview of the Docusaurus book running on your local system. My interface is limited to text output.
+
+To view the local preview of your project, you need to:
+
+1.  **Start the Docusaurus development server** in your terminal (if you haven't already) by navigating to `my-robotic-book/` and running:
+    ```bash
+    npm start --prefix my-robotic-book
+    ```
+2.  **Open your web browser** (like Chrome, Firefox, Edge, etc.).
+3.  **Go to the URL** that Docusaurus provides in the terminal. This is typically `http://localhost:3000` (or sometimes a different port if 3000 is in use).
+
+Once you do that, you will be able to see and interact with your project directly in your web browser. Let me know if you are having trouble starting the server or accessing the URL in your browser.

@@ -1,0 +1,20 @@
+Thank you for clarifying.
+
+My `git log` shows that your local `master` branch (which contains all the book's content files, configuration, etc.) is synchronized with the `origin/master` branch on GitHub. This means that all the source code for your book should be present in the `master` branch on your GitHub repository:
+
+**GitHub Repository URL:** https://github.com/abida3232/my-robotic-book-project
+
+**To check the source code:**
+1.  Go to the GitHub repository link above.
+2.  Ensure that the selected branch is `master` (you'll usually see a dropdown near the top left of the file list).
+3.  You should see folders like `docs/`, `my-robotic-book/`, `specs/`, etc., which contain all the project files.
+
+**Regarding the deployed website:**
+*   For Docusaurus projects, the *built website* content is typically deployed to a separate branch, usually named `gh-pages`, for GitHub Pages hosting.
+*   The `master` branch holds the source code, not the live website.
+
+**Could you please confirm:**
+1.  Are you looking at the `master` branch on GitHub when you say it's empty?
+2.  Are you expecting the *live website content* to be directly visible in the `master` branch, rather than the source code?
+
+I need to understand what you are seeing on GitHub to help further.

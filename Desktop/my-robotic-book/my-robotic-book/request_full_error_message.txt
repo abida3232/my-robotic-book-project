@@ -1,0 +1,3 @@
+I understand you encountered an error. To help you, I need to know the exact error message you are seeing.
+
+Please **copy and paste the full error message** from your terminal here. The more details you provide, the better I can assist you in troubleshooting.

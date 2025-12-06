@@ -1,0 +1,16 @@
+To check the project locally on your system, you need to start the Docusaurus development server. This will allow you to view the book in your web browser.
+
+**Here are the steps:**
+
+1.  **Open your terminal** and navigate to the root of your project directory (`C:\Users\ABC\Desktop\my-robotic-book\my-robotic-book\`).
+2.  **Run the start command:**
+    ```bash
+    npm start --prefix my-robotic-book
+    ```
+    *   (Alternatively, if you have Docusaurus CLI installed globally and in your system's PATH, you might use just `docusaurus start` from within the `my-robotic-book` directory. However, `npm start --prefix my-robotic-book` is generally more reliable as it uses the project's local dependencies.)
+3.  **Access in Browser:**
+    *   Docusaurus will build your site and usually open it automatically in your default web browser.
+    *   If it doesn't open automatically, look for a message in your terminal indicating the local URL where the site is running (it's typically `http://localhost:3000`). Copy and paste this URL into your web browser.
+4.  **Browse Content:** You can then browse all the book content, including the chapters we completed, within your web browser. Any changes you make to the Markdown files (`.md`, `.mdx`) or other source files will automatically refresh in your browser.
+
+Let me know if you encounter any issues while trying to start the local development server.

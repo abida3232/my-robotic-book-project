@@ -1,0 +1,22 @@
+A **Prompt History Record (PHR)** is a document that I, as the Gemini agent, automatically create after every significant interaction with you. It serves as a detailed, structured record of our conversation and the actions I take.
+
+Think of it as a comprehensive log or an audit trail of our project's development.
+
+**Each PHR contains:**
+
+*   **Metadata:** Information like a unique ID, the title of our interaction, the development stage (e.g., `implementation`, `deployment`, `misc`), the date, your username, the command you gave me, and labels for categorization.
+*   **Links:** References to relevant project artifacts like specifications (`spec`), architectural decision records (`adr`), tickets, or pull requests.
+*   **Files Affected:** A list of any files I created or modified during that interaction.
+*   **Tests Run:** Details about any tests executed.
+*   **Your Prompt:** The full, verbatim text of the message you sent to me.
+*   **My Response Snapshot:** A concise summary of my key output or action in response to your prompt.
+*   **Outcome and Reflection:** My internal assessment of the impact of the interaction, what was achieved, and any reflections or next steps.
+
+**Purpose of PHRs:**
+
+*   **Context Preservation:** They help to maintain a complete history of our project, ensuring that nothing is lost even over long periods or complex tasks.
+*   **Transparency:** You can review PHRs to understand exactly what I did, why I did it, and what the results were.
+*   **Debugging and Tracking:** If we need to go back and understand a decision or a change, the PHRs provide a clear chronological record.
+*   **Collaboration:** For larger projects, PHRs can help other team members understand the evolution of the project.
+
+You can find all the PHRs I've created for this project in the `history/prompts/` directory within your project structure.

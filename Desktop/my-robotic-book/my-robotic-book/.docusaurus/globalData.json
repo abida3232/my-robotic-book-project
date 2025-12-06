@@ -1,0 +1,119 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/my-robotic-book-project/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/my-robotic-book-project/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "appendix-hardware-guide",
+              "path": "/my-robotic-book-project/docs/appendix-hardware-guide",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/my-robotic-book-project/docs/",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/my-robotic-book-project/docs/intro"
+            },
+            {
+              "id": "part1-foundations/chapter1-principles",
+              "path": "/my-robotic-book-project/docs/part1-foundations/chapter1-principles",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "part1-foundations/chapter2-landscape",
+              "path": "/my-robotic-book-project/docs/part1-foundations/chapter2-landscape",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "part1-foundations/chapter3-sensors",
+              "path": "/my-robotic-book-project/docs/part1-foundations/chapter3-sensors",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "part2-ros/chapter4-core-concepts",
+              "path": "/my-robotic-book-project/docs/part2-ros/chapter4-core-concepts",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "part2-ros/chapter5-packages",
+              "path": "/my-robotic-book-project/docs/part2-ros/chapter5-packages",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "part2-ros/chapter6-urdf",
+              "path": "/my-robotic-book-project/docs/part2-ros/chapter6-urdf",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "part3-simulation/chapter7-gazebo",
+              "path": "/my-robotic-book-project/docs/part3-simulation/chapter7-gazebo",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "part3-simulation/chapter8-isaac-sim",
+              "path": "/my-robotic-book-project/docs/part3-simulation/chapter8-isaac-sim",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "part3-simulation/chapter9-perception",
+              "path": "/my-robotic-book-project/docs/part3-simulation/chapter9-perception",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/my-robotic-book-project/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/my-robotic-book-project/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/my-robotic-book-project/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/my-robotic-book-project/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/my-robotic-book-project/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/my-robotic-book-project/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/my-robotic-book-project/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/my-robotic-book-project/docs/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "bookSidebar": {
+              "link": {
+                "path": "/my-robotic-book-project/docs/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

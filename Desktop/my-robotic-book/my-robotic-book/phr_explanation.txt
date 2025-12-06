@@ -1,0 +1,24 @@
+A Prompt History Record (PHR) is a document that I, as the agent, create after every significant interaction with you. Its purpose is to keep a detailed, organized record of our conversation, including your prompt, my response, the actions I took (like using tools), and the outcome. This helps maintain context, track progress, and serves as a reference for future work or debugging.
+
+**Here's how a PHR is made (from my perspective):**
+
+1.  **Detect the Stage:** I first determine which phase of development our current interaction falls into (e.g., `constitution`, `spec` for specification, `plan`, `tasks`, `implementation`, or `misc`/`general` for other interactions).
+2.  **Generate a Title:** I create a short, descriptive title for the interaction (e.g., "Complete Book Structure Implementation") and a "slug" for the filename.
+3.  **Determine the Location:** Based on the stage and any active "feature" context, I place the PHR file in the appropriate subdirectory under `history/prompts/` (e.g., `history/prompts/robotics-textbook/`).
+4.  **Fill a Template:** I use a predefined template (`.specify/templates/phr-template.prompt.md`) and populate it with all relevant metadata:
+    *   **ID:** A unique, incrementing identifier.
+    *   **Title:** The generated title.
+    *   **Stage:** The detected development stage.
+    *   **Date:** The date of the interaction.
+    *   **User:** Your username.
+    *   **Command:** The command you gave me.
+    *   **Labels:** Keywords to categorize the interaction.
+    *   **Links:** References to specs, tickets, ADRs, or pull requests (if applicable).
+    *   **Files:** A list of any files I created or modified during the interaction.
+    *   **Tests:** Any tests I ran or added.
+    *   **Prompt Text:** Your full, verbatim message to me.
+    *   **Response Snapshot:** A concise summary of my key output to you.
+    *   **Outcome/Evaluation:** My internal assessment of the impact, success, and any reflections or next steps.
+5.  **Write the File:** Finally, I write this populated content to a new Markdown file (`.prompt.md`) in the designated location.
+
+You can review these PHR files in the `history/prompts/` directory to see a chronological record of our work together. They serve as an audit trail and a project diary.

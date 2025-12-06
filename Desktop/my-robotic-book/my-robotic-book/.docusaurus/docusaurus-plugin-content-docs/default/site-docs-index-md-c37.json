@@ -1,0 +1,20 @@
+{
+  "id": "index",
+  "title": "Welcome to Physical AI & Humanoid Robotics",
+  "description": "",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/my-robotic-book-project/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "bookSidebar",
+  "next": {
+    "title": "Chapter 1 - Principles of Physical AI",
+    "permalink": "/my-robotic-book-project/docs/part1-foundations/chapter1-principles"
+  }
+}

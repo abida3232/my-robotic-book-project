@@ -1,0 +1,21 @@
+I understand you want to see your project running locally.
+
+Once again, as a text-based CLI agent, I cannot **display** your project in a web browser for you. My output is text.
+
+To see your project running on your local system, you **must** start the development server yourself in your terminal and then open your web browser.
+
+**Here is the command you need to run in your *own* terminal:**
+
+1.  **Open your system's terminal** (e.g., PowerShell, Command Prompt, Git Bash).
+2.  **Navigate to your project directory:**
+    ```bash
+    cd C:\Users\ABC\Desktop\my-robotic-book\my-robotic-book\
+    ```
+3.  **Run the Docusaurus start command:**
+    ```bash
+    npm start --prefix my-robotic-book
+    ```
+    *   **Wait for the server to start.** You will see messages in your terminal indicating it's building and then serving the site.
+4.  **Open your web browser** and go to `http://localhost:3000`.
+
+This is the only way for you to "see" your project on your local system. I cannot perform these actions for you directly.

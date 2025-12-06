@@ -1,0 +1,20 @@
+I understand you want to see your project on `http://localhost:3000`.
+
+However, as a text-based CLI agent, I cannot directly "show" you a graphical preview of the Docusaurus book in this interface. Also, I am unable to execute the `npm start` command from within this environment due to ongoing issues with command recognition (as indicated by the "'docusaurus' is not recognized" error).
+
+To view your project on `http://localhost:3000`, you need to execute the command yourself in your local terminal.
+
+**Please follow these steps on your own system:**
+
+1.  **Open your system's terminal** (e.g., PowerShell, Command Prompt, Git Bash).
+2.  **Navigate to your project directory:**
+    ```bash
+    cd C:\Users\ABC\Desktop\my-robotic-book\my-robotic-book\
+    ```
+3.  **Run the Docusaurus start command:**
+    ```bash
+    npm start --prefix my-robotic-book
+    ```
+4.  Once the server starts (it will show messages in your terminal), **open your web browser** and go to `http://localhost:3000`. This is where you will see the book's content.
+
+Please let me know if you encounter any issues while trying to start the server or if you have any questions about the content once you view it.

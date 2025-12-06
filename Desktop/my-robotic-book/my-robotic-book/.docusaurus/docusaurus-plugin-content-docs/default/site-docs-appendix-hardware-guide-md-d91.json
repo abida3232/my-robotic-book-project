@@ -1,0 +1,20 @@
+{
+  "id": "appendix-hardware-guide",
+  "title": "Appendix: Hardware & Software Guide",
+  "description": "This course is technically demanding. It sits at the intersection of three heavy computational loads: Physics Simulation (Isaac Sim/Gazebo), Visual Perception (SLAM/Computer Vision), and Generative AI (LLMs/VLA).",
+  "source": "@site/docs/appendix-hardware-guide.md",
+  "sourceDirName": ".",
+  "slug": "/appendix-hardware-guide",
+  "permalink": "/my-robotic-book-project/docs/appendix-hardware-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/appendix-hardware-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Chapter 9 - Perception in Simulated Environments",
+    "permalink": "/my-robotic-book-project/docs/part3-simulation/chapter9-perception"
+  }
+}

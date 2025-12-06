@@ -1,0 +1,28 @@
+{
+  "id": "part1-foundations/chapter2-landscape",
+  "title": "Chapter 2 - The Landscape of Physical AI",
+  "description": "2.1 Current Trends and Research Areas",
+  "source": "@site/docs/part1-foundations/chapter2-landscape.md",
+  "sourceDirName": "part1-foundations",
+  "slug": "/part1-foundations/chapter2-landscape",
+  "permalink": "/my-robotic-book-project/docs/part1-foundations/chapter2-landscape",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part1-foundations/chapter2-landscape.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 2 - The Landscape of Physical AI"
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Chapter 1 - Principles of Physical AI",
+    "permalink": "/my-robotic-book-project/docs/part1-foundations/chapter1-principles"
+  },
+  "next": {
+    "title": "Chapter 3 - Sensors for Physical AI",
+    "permalink": "/my-robotic-book-project/docs/part1-foundations/chapter3-sensors"
+  }
+}

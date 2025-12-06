@@ -1,0 +1,28 @@
+{
+  "id": "part3-simulation/chapter9-perception",
+  "title": "Chapter 9 - Perception in Simulated Environments",
+  "description": "Perception is one of the foundational pillars of intelligent robotic behavior, enabling robots to understand their surroundings and make informed decisions. In the context of Physical AI, simulated environments play a pivotal role in the development and testing of robust perception systems. High-fidelity simulators like Gazebo and NVIDIA Isaac Sim provide a controlled, reproducible, and scalable platform for generating realistic sensor data, accessing ground truth information, and iterating rapidly on perception algorithms.",
+  "source": "@site/docs/part3-simulation/chapter9-perception.md",
+  "sourceDirName": "part3-simulation",
+  "slug": "/part3-simulation/chapter9-perception",
+  "permalink": "/my-robotic-book-project/docs/part3-simulation/chapter9-perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part3-simulation/chapter9-perception.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 9 - Perception in Simulated Environments"
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Chapter 8 - Isaac Sim for Robotics Development",
+    "permalink": "/my-robotic-book-project/docs/part3-simulation/chapter8-isaac-sim"
+  },
+  "next": {
+    "title": "Appendix: Hardware & Software Guide",
+    "permalink": "/my-robotic-book-project/docs/appendix-hardware-guide"
+  }
+}

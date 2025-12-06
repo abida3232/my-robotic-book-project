@@ -1,0 +1,18 @@
+I am unable to directly execute the `npm start` command from within this environment due to ongoing issues with command recognition (as indicated by the "'docusaurus' is not recognized" error).
+
+To see the book on your local system, you need to execute the command yourself in your local terminal.
+
+**Please follow these steps on your own system:**
+
+1.  **Open your system's terminal** (e.g., PowerShell, Command Prompt, Git Bash).
+2.  **Navigate to your project directory:**
+    ```bash
+    cd C:\Users\ABC\Desktop\my-robotic-book\my-robotic-book\
+    ```
+3.  **Run the Docusaurus start command:**
+    ```bash
+    npm start --prefix my-robotic-book
+    ```
+4.  Once the server starts (it will show messages in your terminal), **open your web browser** and go to `http://localhost:3000`. This is where you will see the book's content.
+
+I apologize for not being able to run this command directly for you.

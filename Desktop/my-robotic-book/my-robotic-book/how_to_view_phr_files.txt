@@ -1,0 +1,18 @@
+As a text-based CLI agent, I cannot graphically "show" you the PHR files or their content directly in a visual format. However, I can tell you where they are located and how you can view them.
+
+**All the PHR files are located in your project directory under:**
+
+`C:\Users\ABC\Desktop\my-robotic-book\my-robotic-book\history\prompts\robotics-textbook\`
+
+You can **open these `.prompt.md` files with any text editor** (like VS Code, Notepad++, Sublime Text, etc.) to read their content. Each file contains a record of our interactions, including your prompts, my responses, and the actions I took.
+
+For example, to view the latest PHR I just created (PHR ID 31), you would look for a file named something like:
+
+`31-remind-user-pending-troubleshooting-information.misc.prompt.md`
+
+You can also use a command-line tool like `cat` or `type` (on Windows) to view the content of a PHR file in your terminal, for example:
+
+```bash
+type C:\Users\ABC\Desktop\my-robotic-book\my-robotic-book\history\prompts\robotics-textbook\31-remind-user-pending-troubleshooting-information.misc.prompt.md
+```
+(You'll need to run this command in your own system's terminal, not in this interface, as I cannot run arbitrary `type` commands that expect long outputs directly.)

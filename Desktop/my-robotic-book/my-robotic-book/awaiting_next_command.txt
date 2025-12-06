@@ -1,0 +1,11 @@
+I'm ready for your next command.
+
+What would you like to work on next for your `my-robotic-book` project?
+
+For example, you could:
+*   Ask me to review specific content.
+*   Ask for help with the manual GitHub Pages deployment if you've tried it and encountered issues (please provide logs).
+*   Ask for help with the Vercel deployment if you've tried it and encountered issues (please provide logs).
+*   Ask me to create new content or features.
+*   Ask me to add images or other assets.
+*   Ask me to set up testing.
